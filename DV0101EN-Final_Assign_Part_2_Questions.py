@@ -3,6 +3,7 @@
 
 # In[ ]:
 
+#Interactive dashboard created with Flask/Dash in Python
 
 import dash
 from dash import dcc
